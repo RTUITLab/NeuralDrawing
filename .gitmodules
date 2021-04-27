@@ -1,0 +1,6 @@
+[submodule "NeuralDrawing-Unity"]
+	path = NeuralDrawing-Unity
+	url = https://github.com/RTUITLab/NeuralDrawing-Unity
+[submodule "NeuralDrawing-SignalProcessing"]
+	path = NeuralDrawing-SignalProcessing
+	url = https://github.com/RTUITLab/NeuralDrawing-SignalProcessing
